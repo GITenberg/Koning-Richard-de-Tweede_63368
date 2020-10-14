@@ -1,0 +1,44 @@
+_repo: Koning-Richard-de-Tweede_63368
+_version: 0.0.1
+alternative_title: King Richard II. Dutch
+contributor:
+  translator:
+    agent_name: Burgersdijk, L. A. J. (Leendert Alexander Johannes)
+    aliases:
+    - Burgersdijk, Leendert Alexander Johannes
+    - Burgersdijk, Dr. L. A. J.
+    - Burgersdijk, Dr. L.A.J.
+    birthdate: 1828
+    deathdate: 1900
+    gutenberg_agent_id: '25415'
+    url: http://www.gutenberg.org/2009/agents/25415
+    wikipedia: https://nl.wikipedia.org/wiki/Leendert_Burgersdijk
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: https://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2020-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63368'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical drama'
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+- !lcsh 'Richard II, King of England, 1367-1400 -- Drama'
+- !lcsh 'Great Britain -- History -- Richard II, 1377-1399 -- Drama'
+- GITenberg
+title: Koning Richard de Tweede
+url: http://www.gutenberg.org/ebooks/63368
